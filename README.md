@@ -1,1 +1,1 @@
-# reverse-distribution-network
+Сеть обратного распространения
